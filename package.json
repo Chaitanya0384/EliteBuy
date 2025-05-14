@@ -1,0 +1,16 @@
+{
+  "name": "elite-buy",
+  "version": "1.0.0",
+  "description": "EliteBuy MERN Stack Ecommerce application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chaitanya",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-bootstrap": "^2.10.10",
+    "react-dom": "^19.1.0"
+  }
+}
